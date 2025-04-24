@@ -6,10 +6,12 @@ Extensive Wordbank
 - Able to check the validity of letters clicked in creating valid words
 - Calculates scrabble score for each word
 - Multiplier for consecutive words without making a mistake
+
 Game Mechanics
 - Game timer
 - Adaptive sound effects
 - Lose time when clicking on invalid letters
+
 Local database
 - Tracks game statistics (word list, highest scoring word, etc.)
 - Hyperlink to word definitions on game review screen
