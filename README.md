@@ -5,9 +5,9 @@ A scrabble inspired game made in a span of two weeks for a school project. Built
 Extensive Wordbank
 - Able to check the validity of letters clicked in creating valid words
 - Calculates scrabble score for each word
-- Multiplier for consecutive words without making a mistake
 
-Game Mechanics
+Game Features
+- Multiplier for consecutive words without making a mistake
 - Game timer
 - Adaptive sound effects
 - Lose time when clicking on invalid letters
